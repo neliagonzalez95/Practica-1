@@ -1,0 +1,45 @@
+html{
+    text-align: center;
+}
+body {display: inline-block; text-align: left}
+h2{text-align: center;color: #000821;font-weight: 900}
+.card{
+    margin-top: 80px;
+    width: 325px;
+box-shadow: -27px -18px 205px 8px rgba(82,0,0,0.72);
+-webkit-box-shadow: -27px -18px 205px 8px rgba(82,0,0,0.72);
+-moz-box-shadow: -27px -18px 205px 8px rgba(82,0,0,0.72);
+}
+label{
+  color: #000821;
+  font-weight: 900;
+
+}
+input[type=number]{
+
+  border: 1px solid #000821;
+}
+.btn{
+    background-color: magenta;
+    color: white;
+    font-weight: bold;
+}
+.btn:hover{
+    transition: all 0.5s;
+    background: transparent;
+    border: 1px solid magenta;
+    color: black;
+    font-weight: bold;
+}
+
+#salidaRaiz{
+    color:magenta;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+p{
+  color: #000821;
+  font-weight: 900;
+  text-align: center;
+}
